@@ -1,6 +1,7 @@
-# 🏍️ MotoApi
+# 🏍️ Descrição do Projeto MotoApi
 
-API RESTful para gerenciamento de motos, proprietários e manutenção. Desenvolvida em ASP.NET Core com Entity Framework Core.
+A MotoApi é uma API RESTful desenvolvida com o framework ASP.NET Core e o ORM Entity Framework Core, projetada para oferecer um sistema robusto e escalável de gerenciamento de motos, proprietários e seus respectivos registros de manutenção. O principal objetivo é fornecer uma base sólida para aplicações que exigem controle preciso de veículos, com foco em performance, segurança e boas práticas de desenvolvimento.
+A API foi desenhada seguindo os princípios REST, permitindo integração simples e eficiente com aplicações front-end, mobile ou outros serviços via HTTP. A arquitetura é modular e extensível, facilitando a manutenção e evolução do sistema ao longo do tempo.
 
 ## 📦 Tecnologias Utilizadas
 
