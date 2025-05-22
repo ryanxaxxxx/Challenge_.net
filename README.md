@@ -11,6 +11,11 @@ A API foi desenhada seguindo os princípios REST, permitindo integração simple
 - AutoMapper
 - Swagger (OpenAPI)
 
+## 👨‍💻 Integrantes
+ Ryan Fernando Lucio da Silva - 555924/
+ Lucas Henrique de Souza Santos - 558241/
+ Mariana Roberti Neri - 556284
+
 
 ## 🚀 Funcionalidades
 
